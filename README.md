@@ -27,3 +27,12 @@
 ## Volumes
  * "/home/host/dockervolume" Volume sur le host.
  * "/var/www/html" Volume dans le conteneur.
+ 
+### Pour la suite
+- [ ] Ajouter des variables
+- [ ] Revoir sécurité .htaccess
+- [ ] Erreur apache2: Could not reliably determine the server's fully qualified domain name
+- [ ] Avertissement espaces vides avec sed et apt
+- [ ] Utilisation de debian_frontend=noninteractive
+- [ ] Message apt-utils
+- [ ] Message apt cli instable
