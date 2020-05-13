@@ -1,5 +1,5 @@
 # Dokuwiki_Dockerfile
 
-<img src="./DokuwikiWeb.png" width="70%">
+<img src="./DokuwikiWebInstalateur.png" width="70%">
 
 
