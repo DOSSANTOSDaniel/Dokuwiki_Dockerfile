@@ -24,6 +24,9 @@
 #### Pour créer et démarrer un conteneur avec un volume  
 `docker run -d -v /home/host/dockervolume:/var/www/html -p 80:80 -p 443:443 "id_image"`
 
+#### Se connecter sur l'interface web de l'installeur
+https://IP_machine/
+
 ## Volumes
  * "/home/host/dockervolume" Volume sur le host.
  * "/var/www/html" Volume dans le conteneur.
