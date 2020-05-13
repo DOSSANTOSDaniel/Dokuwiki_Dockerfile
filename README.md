@@ -35,4 +35,15 @@
 - [ ] Avertissement espaces vides avec sed et apt
 - [ ] Utilisation de debian_frontend=noninteractive
 - [ ] Message apt-utils
-- [ ] Message apt cli instable
+- [ ] rm /var/www/dokuwiki/install.php
+- [ ] Message apt cli instable rm /var/www/dokuwiki/install.php
+
+- https://www.dokuwiki.org/security
+
+- https://www.dokuwiki.org/rewrite
+
+- https://www.dokuwiki.org/tips:maintenance
+
+- https://www.dokuwiki.org/tips:timezone
+
+- https://www.dokuwiki.org/tips
