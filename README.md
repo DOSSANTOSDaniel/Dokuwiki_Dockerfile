@@ -1,15 +1,15 @@
-# Image Docker de Dokuwiki personalisée configuration de php.ini incluse
+# Image Docker de Dokuwiki personalisée
+## Configuration de php.ini incluse
 
 <img src="./DokuwikiWebInstalateur.png" width="70%">
 
  Dockerfile permettant d'avoir une image près à l'emplois de Dokuwiki:
- * Installation d'Apache2
- * Installation de PHP7.3
- * Installation et configuration de Dokuwiki
+ * Installation d'Apache2.4.
+ * Installation de PHP7.3.
+ * Installation et configuration de Dokuwiki 2018-04-22c.
  * Configuration de php.ini.
- * Configiration des VirtualHosts.
-
-*Image basé sur Debian 10 (Buster)
+ * Configuration des VirtualHosts.
+ * Image basé sur Debian 10 (Buster).
 
 ## Usage
 
@@ -26,4 +26,4 @@
 
 ## Volumes
  * "/home/host/dockervolume" Volume sur le host.
- * "/var/www/html" Volume dans le container.
+ * "/var/www/html" Volume dans le conteneur.
