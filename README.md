@@ -1,3 +1,3 @@
 # Dokuwiki_Dockerfile
-![Install web](/DokuwikiWeb.png | width=100%)
+![Install web](/DokuwikiWeb.png | width=100)
 Dockerfile
