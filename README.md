@@ -14,8 +14,8 @@
 ## Usage
 
 #### Pour construire l'image
-1. `git clone` 
-2. `cd` 
+1. `git clone https://github.com/DOSSANTOSDaniel/Dokuwiki_Dockerfile.git` 
+2. `cd Dokuwiki_Dockerfile` 
 3. `docker image build --tag montag .`
 
 #### Pour créer et démarrer un conteneur 
