@@ -1,4 +1,4 @@
-# :whale2: Image Docker de Dokuwiki personalisée
+# :whale2: Image Docker de Dokuwiki personnalisée
 ## Configuration de php.ini incluse.
 
 <img src="./DokuwikiWebInstalateur.png" width="70%">
