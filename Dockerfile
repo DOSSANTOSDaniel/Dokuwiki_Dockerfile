@@ -79,7 +79,7 @@ RUN printf '<VirtualHost *:80>\n \
    Redirect permanent / https://192.168.0.27/\n \
 </VirtualHost>\n \
 \n \
-<VirtualHost *:443>\n \
+<VirtualHost _default_:443>\n \
 \n \
    DocumentRoot /var/www/html/dokuwiki/\n \
    ServerName wiki.tpdaniel.fr\n \
