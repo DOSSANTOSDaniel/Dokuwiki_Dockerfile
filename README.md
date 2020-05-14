@@ -1,5 +1,5 @@
 # :whale2: Image Docker de Dokuwiki personnalisée
-## Configuration de php.ini incluse.
+## Configuration de php.ini et SSL incluse.
 
 <img src="./DokuwikiWebInstalateur.png" width="70%">
 
@@ -7,6 +7,7 @@
  * Installation d'Apache2.4.
  * Installation de PHP7.3.
  * Installation et configuration de Dokuwiki 2018-04-22c.
+ * Mise en place du SSL (certificat autosigné).
  * Configuration de php.ini.
  * Configuration des VirtualHosts.
  * Image basé sur Debian 10 (Buster).
