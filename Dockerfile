@@ -48,7 +48,7 @@ RUN sed -ir -e "s/max_execution_time = 30/max_execution_time = 240/g" /etc/php/7
  && sed -ir -e "s/;date.timezone =/date.timezone = \"Europe\/Paris\"/g" /etc/php/7.3/cli/php.ini \
  && sed -ir -e "s/;date.timezone =/date.timezone = \"Europe\/Paris\"/g" /etc/php/7.3/apache2/php.ini
 
-# Télechargement de Dokuwiki
+# Téléchargement de Dokuwiki
 ADD http://download.dokuwiki.org/src/dokuwiki/dokuwiki-stable.tgz /tmp/dokuwiki.tgz
 
 # Vérification du fichier tgz

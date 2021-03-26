@@ -3,7 +3,7 @@
 
 <img src="./DokuwikiWebInstalateur.png" width="70%">
 
- Dockerfile permettant d'avoir une image près à l'emplois de Dokuwiki:
+ Dockerfile permettant d'avoir une image prêt à l’emploi de Dokuwiki:
  * Installation d'Apache2.4.
  * Installation de PHP7.3.
  * Installation et configuration de Dokuwiki 2018-04-22c.
